@@ -36,7 +36,7 @@ Collection of reusable ESP-IDF components for common peripherals and protocols.
 
 | Component | Description | Status | Documentation |
 |-----------|-------------|--------|---------------|
-| **[wb-idf-i2c](https://github.com/WhirlingBits/wb-idf-core/tree/main/wb-idf-i2c)** | I²C Master Driver with multi-instance support | ✅ Stable | [📖 API Docs](https://docs.whirlingbits.de/wb-idf-i2c/) |
+| **[wb-idf-i2c](https://github.com/WhirlingBits/wb-idf-core/tree/main/wb-idf-i2c)** | I²C Master Driver with multi-instance support | ✅ Stable | [📖 API Docs](https://docs.whirlingbits.de/wb-idf-core/wb_idf_i2c) |
 | **wb-idf-spi** | SPI Communication Handler | 🚧 In Development | Coming Soon |
 
 #### Key Features
